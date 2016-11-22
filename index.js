@@ -1,9 +1,7 @@
-var myTask = require('./tasks/task'),
+var myTask = require('./tasks/sass'),
 	gulp = require('gulp');
 
 module.exports = function() {
-	var theTask = myTask(gulp)
-	console.log('hello world');
 
-	return theTask.myGulp;
+	return myTask;
 }
