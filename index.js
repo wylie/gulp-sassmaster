@@ -1,7 +1,5 @@
-var myTask = require('./tasks/sass'),
-	gulp = require('gulp');
+var styleTasks = require('./tasks/sass');
 
-module.exports = function() {
-
-	return myTask;
+module.exports = function(gulp) {
+	return styleTasks(gulp);
 }
