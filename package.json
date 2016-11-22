@@ -1,5 +1,5 @@
 {
-  "name": "gulp-starter",
+  "name": "gulp-sassmaster",
   "version": "1.0.0",
   "description": "scaffold to create modular gulp scripts",
   "main": "index.js",
