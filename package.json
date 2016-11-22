@@ -1,0 +1,17 @@
+{
+  "name": "gulp-starter",
+  "version": "1.0.0",
+  "description": "scaffold to create modular gulp scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Matt Pivnick",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
